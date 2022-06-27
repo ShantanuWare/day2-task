@@ -1,0 +1,6 @@
+difference between document and window objects:
+1] document is loaded into window where window is the very first object that is loaded into browser.
+2] Document is the object of window where the window is object of browser.
+3] tags, elements with attributes in HTML are part of the document where global objects, functions and variables are part of the window.
+4] The document is part of BOM and dom where window is only part of BOM.
+5]  the document represents the web page which is loaded in browser where window represents frame that displays the contents of the webpage.
